@@ -1,3 +1,3 @@
 # finger-digits classification
 
-![dataset](https://github.com/zahrasa/finger-digits/blob/main/img/dataset.png)
+![dataset](https://github.com/zahrasa/finger-digits-classification/blob/main/img/dataset.png)
